@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GxQb3BhExNUQZmhp3MqDDyaVCULPMDV9etpuXwFf7B401K9AGVIkRMr8xc5VlPonX17N1w1eUcDQJLFnPJ2YaA==",
+  "dgSpecHash": "IzKBL+zj5UEjTXFpT727Hyz1jJvUrmvy+kXQwYIwWn9otz9ISgyO6fp0wD455RjirA7n5YrpLl8xaafAMqTmTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jeo\\source\\repos\\Pair Programming\\Pair Programming\\Pair Programming.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\harre\\Desktop\\Pair Program demo\\Pair-Programming\\Pair Programming\\Pair Programming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
