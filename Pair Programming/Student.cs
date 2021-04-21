@@ -26,8 +26,8 @@ namespace Pair_Programming
         }
         public Student(string name, int grade)
         {
-            this._name = Name;
-            this._grade = Grade;
+            this._name = name;
+            this._grade = grade;
         }
     }
 }
