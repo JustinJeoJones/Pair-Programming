@@ -1,28 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeo\\source\\repos\\Pair Programming\\Pair Programming\\Pair Programming.csproj": {}
+    "C:\\Users\\harre\\Desktop\\Pair Program demo\\Pair-Programming\\Pair Programming\\Pair Programming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeo\\source\\repos\\Pair Programming\\Pair Programming\\Pair Programming.csproj": {
+    "C:\\Users\\harre\\Desktop\\Pair Program demo\\Pair-Programming\\Pair Programming\\Pair Programming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeo\\source\\repos\\Pair Programming\\Pair Programming\\Pair Programming.csproj",
+        "projectUniqueName": "C:\\Users\\harre\\Desktop\\Pair Program demo\\Pair-Programming\\Pair Programming\\Pair Programming.csproj",
         "projectName": "Pair Programming",
-        "projectPath": "C:\\Users\\Jeo\\source\\repos\\Pair Programming\\Pair Programming\\Pair Programming.csproj",
-        "packagesPath": "C:\\Users\\Jeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeo\\source\\repos\\Pair Programming\\Pair Programming\\obj\\",
+        "projectPath": "C:\\Users\\harre\\Desktop\\Pair Program demo\\Pair-Programming\\Pair Programming\\Pair Programming.csproj",
+        "packagesPath": "C:\\Users\\harre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harre\\Desktop\\Pair Program demo\\Pair-Programming\\Pair Programming\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\harre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,12 +49,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.12, 3.1.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
